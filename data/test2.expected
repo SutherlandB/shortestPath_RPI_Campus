@@ -1,0 +1,148 @@
+First building id/name, followed by Enter: Second building id/name, followed by Enter: Path from Hall Hall to Troy Building:
+	Walk West to (Intersection 103)
+	Walk NorthWest to (Public Safety)
+	Walk West to (Intersection 141)
+	Walk North to (Russell Sage Dining Hall)
+	Walk NorthWest to (87 Gymnasium)
+	Walk West to (Ricketts Building)
+	Walk West to (Troy Building)
+Total distance: 617.449 pixel units.First building id/name, followed by Enter: Second building id/name, followed by Enter: Path from EMPAC to Academy Hall:
+	Walk East to (MRC)
+	Walk East to (Empire State Hall)
+	Walk East to (Cogswell Laboratory)
+	Walk East to (Intersection 137)
+	Walk SouthEast to (Academy Hall)
+Total distance: 490.489 pixel units.
+133 Sunset Terrace,71
+200 Sunset Terrace,54
+2021 Peoples Avenue,33
+2144 Burdett Avenue,51
+41 Ninth Street,27
+87 Gymnasium,11
+Academy Hall,67
+Admissions,34
+Alumni House,32
+Alumni Sports & Recreation Center,37
+Amos Eaton Hall,26
+Barton Hall,73
+Beman Park Firehouse,69
+Blaw-Knox 1 & 2,29
+Blitman Residence Commons,85
+Boiler House at 11th Street,77
+Boiler House at Sage Avenue,5
+Bray Hall,48
+Bryckwyck,61
+Burdett Avenue Residence Hall,50
+CBIS,74
+CII,14
+Carnegie Building,3
+Cary Hall,47
+Chapel and Cultural Center,49
+Cogswell Laboratory,20
+Colonie Apartments,66
+Commons Dining Hall,39
+Crockett Hall,40
+DCC,17
+Davison Hall,42
+E Complex,9
+EMPAC,76
+East Campus Athletic Village Arena,89
+East Campus Athletic Village Stadium,90
+Empire State Hall,68
+Engineering Center,18
+Field House Houston,52
+Folsom Library,23
+Greene Building,24
+Greenhouses and Grounds Barn,57
+H Building,31
+Hall Hall,46
+J Building,30
+Java++ Cafe,80
+LINAC Facility,58
+Lally Hall,25
+Louis Rubin Memorial Approach,79
+MRC,21
+Mueller Center,72
+Nason Hall,41
+North Hall,8
+Nugent Hall,44
+OGE,91
+Parking Garage,75
+Patroon Manor,65
+Pittsburgh Building,1
+Playhouse,15
+Polytechnic Residence Commons,86
+Public Safety,36
+Quadrangle Complex,12
+RPI Ambulance,81
+Radio Club,60
+Rensselaer Apartment Housing Project RAHP A Site,53
+Rensselaer Apartment Housing Project RAHP B Site,62
+Rensselaer Union,35
+Ricketts Building,10
+Robison Swimming Pool,38
+Russell Sage Dining Hall,13
+Russell Sage Laboratory,6
+Science Center,19
+Seismograph Laboratory,55
+Service Building,28
+Sharp Hall,43
+Stacwyck Apartments,59
+Troy Building,7
+VCC,22
+Walker Laboratory,4
+Warren Hall,45
+West Hall,2
+Winslow Building,78
+First building id/name, followed by Enter: Second building id/name, followed by Enter: Path from Ricketts Building to Science Center:
+	Walk West to (Troy Building)
+	Walk SouthWest to (Intersection 133)
+	Walk South to (Greene Building)
+	Walk SouthEast to (Engineering Center)
+	Walk South to (Science Center)
+Total distance: 389.210 pixel units.First building id/name, followed by Enter: Second building id/name, followed by Enter: Path from Troy Building to 87 Gymnasium:
+	Walk East to (Ricketts Building)
+	Walk East to (87 Gymnasium)
+Total distance: 156.051 pixel units.First building id/name, followed by Enter: Second building id/name, followed by Enter: Unknown building: [82]First building id/name, followed by Enter: Second building id/name, followed by Enter: Unknown building: [82]First building id/name, followed by Enter: Second building id/name, followed by Enter: Unknown building: [1999]First building id/name, followed by Enter: Second building id/name, followed by Enter: Path from Hall Hall to Warren Hall:
+	Walk SouthEast to (Intersection 122)
+	Walk West to (Warren Hall)
+Total distance: 146.368 pixel units.First building id/name, followed by Enter: Second building id/name, followed by Enter: Path from Folsom Library to Alumni House:
+	Walk North to (Lally Hall)
+	Walk NorthEast to (Intersection 134)
+	Walk NorthEast to (Intersection 133)
+	Walk NorthEast to (Troy Building)
+	Walk NorthEast to (Intersection 132)
+	Walk NorthEast to (North Hall)
+	Walk North to (H Building)
+	Walk NorthEast to (Alumni House)
+Total distance: 586.484 pixel units.
+First building id/name, followed by Enter: Second building id/name, followed by Enter: Path from 200 Sunset Terrace to Warren Hall:
+	Walk NorthWest to (Intersection 127)
+	Walk West to (Intersection 128)
+	Walk West to (Intersection 126)
+	Walk SouthWest to (Burdett Avenue Residence Hall)
+	Walk West to (Intersection 109)
+	Walk South to (Intersection 124)
+	Walk SouthWest to (Crockett Hall)
+	Walk West to (Commons Dining Hall)
+	Walk SouthWest to (Intersection 122)
+	Walk West to (Warren Hall)
+Total distance: 1062.058 pixel units.
+First building id/name, followed by Enter: Second building id/name, followed by Enter: Path from Ricketts Building to West Hall:
+	Walk West to (Troy Building)
+	Walk West to (Russell Sage Laboratory)
+	Walk West to (Intersection 107)
+	Walk NorthWest to (Intersection 130)
+	Walk West to (West Hall)
+Total distance: 335.470 pixel units.
+First building id/name, followed by Enter: Second building id/name, followed by Enter: Unknown building: [90000]
+Unknown building: [9000]
+First building id/name, followed by Enter: Second building id/name, followed by Enter: Unknown building: [93]
+Unknown building: [a]
+First building id/name, followed by Enter: Second building id/name, followed by Enter: Unknown building: [a]
+Unknown building: [93]
+b lists all buildings
+r prints directions for the shortest route between any two buildings
+q quits the program
+m prints a menu of all commands
+Unknown option
